@@ -28,13 +28,7 @@ DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,img1.doubanio.com
-DOMAIN-SUFFIX,img2.doubanio.com
-DOMAIN-SUFFIX,img3.doubanio.com
-DOMAIN-SUFFIX,img4.doubanio.com
-DOMAIN-SUFFIX,img5.doubanio.com
-DOMAIN-SUFFIX,img6.doubanio.com
-DOMAIN-SUFFIX,img9.doubanio.com
+DOMAIN-SUFFIX,doubanio.com
 
 #国外流媒体
 DOMAIN-SUFFIX,primevideo.com
